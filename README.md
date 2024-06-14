@@ -31,3 +31,5 @@ nike_products.csv: CSV file containing extracted product data.
 nike_products.json: JSON file containing extracted product data.
 
 README.md: This file, containing project documentation.
+
+gitignore
