@@ -8,6 +8,7 @@ Welcome to Task-05! This project focuses on web scraping to extract product info
 
   
 2.	Data Storage: Saves extracted data in structured formats:
+3.	
       •	CSV file (nike_products.csv)
 
   	
@@ -18,11 +19,14 @@ Welcome to Task-05! This project focuses on web scraping to extract product info
 This project utilizes Python for scripting and includes the following libraries:
 
       requests: For making HTTP requests to fetch data from the Nike API.
+      
       json: For parsing JSON data received from the API.
 # Folder Structure
 
 nike_scraping.py: Main Python script for web scraping and data processing.
 
 nike_products.csv: CSV file containing extracted product data.
+
 nike_products.json: JSON file containing extracted product data.
+
 README.md: This file, containing project documentation.
