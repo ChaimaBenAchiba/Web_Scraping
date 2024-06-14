@@ -10,7 +10,7 @@ Welcome to Task-05! This project focuses on web scraping to extract product info
 
   
 2.	Data Storage: Saves extracted data in structured formats:
-3.	
+   
       •	CSV file (nike_products.csv)
 
   	
