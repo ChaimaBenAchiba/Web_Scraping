@@ -5,9 +5,11 @@ Welcome to Task-05! This project focuses on web scraping to extract product info
 # Features
 
 1.	Data Extraction: Automatically retrieves product information from a specified online e-commerce site.
+
   
 2.	Data Storage: Saves extracted data in structured formats:
       •	CSV file (nike_products.csv)
+
   	
       •	JSON file (nike_products.json)
   	
