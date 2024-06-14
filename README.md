@@ -1,4 +1,6 @@
-# Task-05: Web Scraping Project
+
+
+# 📝 Task-05: Web Scraping Project
 
 Welcome to Task-05! This project focuses on web scraping to extract product information from an online e-commerce website. The extracted data, including names, prices, and additional details, is stored in structured formats like CSV and JSON.
 
